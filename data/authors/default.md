@@ -1,16 +1,20 @@
 ---
-name: Tails Azimuth
+name: Amal Afroz Alam
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+occupation: Senior Product Manager
+company: Ordergroove
+email: amalafrozalam@gmail.com
+twitter: https://twitter.com/amalafrozalam
+linkedin: https://www.linkedin.com/in/amalafrozalam
+github: https://github.com/amalafrozalam
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+Hi!
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+I'm Amal Afroz Alam. I'm from Queens, New York. Born and raised.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I'm a biomedical engineer turned founder turned product manager. I enjoy building complicated products that have a lot of impact on users.
+
+When not building new products, I spend my time in *too many* hobbies. Sometimes I blog about them here, so stick around and you might get a glimpse into them.
+
+If you'd like to chat with me, work with me, or anything else, feel free to use the links below.
