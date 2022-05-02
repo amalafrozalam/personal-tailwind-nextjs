@@ -1,21 +1,21 @@
 const siteMetadata = {
-  title: 'Amal\'s Blog',
+  title: "Amal's Blog",
   author: 'Amal Afroz Alam',
-  headerTitle: 'Amal\'sBlog',
+  headerTitle: "Amal's Blog",
   description: 'A blog written by Amal Afroz Alam',
   language: 'en-us',
-  theme: 'system', // system, dark or light
+  theme: 'light', // system, dark or light
   siteUrl: 'amalafrozalam.com',
   siteRepo: 'https://github.com/amalafrozalam/tailwind-nextjs-starter-blog',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'address@yoursite.com',
-  github: 'https://github.com',
-  twitter: 'https://twitter.com/Twitter',
-  facebook: 'https://facebook.com',
+  email: 'amalafrozalam@gmail.com',
+  github: 'https://github.com/amalafrozalam',
+  twitter: 'https://twitter.com/amalafrozalam',
+  facebook: 'https://facebook.com/amalafrozalam',
   youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com',
+  linkedin: 'https://www.linkedin.com/in/amalafrozalam',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
